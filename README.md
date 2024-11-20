@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alex98BIT
+- 👀 I’m interested in Machine Learning, AI, Robotics, and Data Analytics
+- 🌱 I’m currently learning at Master Course of Computing and Robotic Engineering at the University of Perugia
+- 📫 How to reach me alex.becchetti98@gmail.com
+- 😄 Pronouns: he/him
